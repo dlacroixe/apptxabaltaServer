@@ -1,0 +1,15 @@
+{
+  "name": "apptxabaltaServer",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.11.2",
+    "socket.io": "~1.3.3",
+    "gcm" : "*",
+    "feed-read": "*",
+    "cheerio": "*",
+    "request": "*",
+    "twitter": "*",
+    "mongodb": "*",
+    "assert": "*"
+  }
+}
